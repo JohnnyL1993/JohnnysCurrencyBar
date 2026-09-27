@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Johnny's Currency Tracker
+## Notes: Draggable bar tracking Honor, Arena Points, Stone Keeper's Shards, Wintergrasp Marks of Honor, and Emblems (Heroism/Valor/Conquest/Triumph/Frost). Same look as Johnny's Warmane Addon Hub.
+## Author: Johnny
+## Version: 1.0
+## SavedVariables: CurrencyBarDB
+
+Skin.lua
+Core.lua
