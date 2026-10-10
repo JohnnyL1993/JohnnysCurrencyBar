@@ -4,6 +4,10 @@ A World of Warcraft 3.3.5a addon for the Warmane private server.
 
 Draggable bar tracking Honor, Arena Points, Stone Keeper's Shards, Wintergrasp Marks of Honor, and Emblems (Heroism/Valor/Conquest/Triumph/Frost). Same look as Johnny's Warmane Addon Hub.
 
+## Screenshots
+
+![The currency drawer, pinned open](screenshots/currencybar.png)
+
 ## Requirements
 
 No other addons required.
